@@ -1,8 +1,8 @@
 # Hi I'm Paul 👋
 
-I am a junior frontend developer, but with my determination and willingness to develop my skills I will quickly jump over this threshold.
+💡I am a junior frontend developer, but with my determination and willingness to develop my skills I will quickly jump over this threshold.
 
-In my free time, I develop my skills by implementing new projects.
+✍️In my free time, I develop my skills by implementing new projects.
 
 ## 🛠 Skills
 
@@ -10,6 +10,7 @@ In my free time, I develop my skills by implementing new projects.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawelNackowski&theme=transparent&show_icons=true)
 
+## 📱Contact me
 <p align="left">
 <a href="https://www.linkedin.com/in/pawelnackowski"><img src="https://img.shields.io/badge/-Linkedin%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:pawelnakowski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
