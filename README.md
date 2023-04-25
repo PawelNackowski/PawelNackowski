@@ -12,8 +12,8 @@
 
 ## 📱 Contact me
 <p align="left">
-<a href="https://www.linkedin.com/in/pawelnackowski"><img src="https://img.shields.io/badge/-Linkedin%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:pawelnakowski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/pawe_n/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/pawel.nackowski/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/pawelnackowski"><img src="https://img.shields.io/badge/-Linkedin%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a target="_blank" href="mailto:pawelnakowski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a target="_blank" href="https://www.instagram.com/pawe_n/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a target="_blank" href="https://www.facebook.com/pawel.nackowski/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
