@@ -8,7 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,styledcomponents,git,github,photoshop,svg,vscode,)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawelNackowski&theme=transparent&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawelNackowski&theme=transparent&show_icons=true&card_width&)
 
 ## 📱 Contact me
 <p align="left">
