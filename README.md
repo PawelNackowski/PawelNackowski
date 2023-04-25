@@ -10,7 +10,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawelNackowski&theme=transparent&show_icons=true)
 
-## 📱Contact me
+## 📱 Contact me
 <p align="left">
 <a href="https://www.linkedin.com/in/pawelnackowski"><img src="https://img.shields.io/badge/-Linkedin%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:pawelnakowski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
