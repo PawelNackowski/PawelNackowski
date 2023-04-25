@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hi I'm Paul 👋
 
 I am a junior frontend developer, but with my determination and willingness to develop my skills I will quickly jump over this threshold.
@@ -18,4 +16,3 @@ In my free time, I develop my skills by implementing new projects.
 <a href="https://www.instagram.com/pawe_n/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/pawel.nackowski/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-
