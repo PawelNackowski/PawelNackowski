@@ -6,11 +6,12 @@
 
 ## 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,styledcomponents,git,github,photoshop,svg,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,redux,styledcomponents,git,github,photoshop,svg,vscode,nodejs,mongodb,bootstrap)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawelNackowski&theme=transparent&show_icons=true&card_width&)
 
 ## 📱 Contact me
+
 <p align="left">
 <a href="https://www.linkedin.com/in/pawelnackowski"><img src="https://img.shields.io/badge/-Linkedin%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:pawelnakowski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
