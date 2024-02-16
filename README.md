@@ -1,12 +1,14 @@
 # Hi I'm Paul 👋
 
-💡I am a junior frontend developer, but with my determination and willingness to develop my skills I will quickly jump over this threshold.
+💡I am frontend developer, but with my determination and   willingness to develop my skills I will quickly jump over this threshold.
 
 ✍️In my free time, I develop my skills by implementing new projects.
 
 ## 🛠 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,redux,styledcomponents,git,github,photoshop,svg,vscode,nodejs,mongodb,bootstrap)](https://skillicons.dev)
+
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawelNackowski&theme=transparent&show_icons=true&card_width&)
 
